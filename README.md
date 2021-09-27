@@ -1,4 +1,4 @@
-# CS187
+# Data Structures
  
  
 This is a collection of all the projects done in the Spring 2021 semester. Java was the main medium of Instruction for this Course
